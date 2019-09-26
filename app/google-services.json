@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215563026195",
+    "firebase_url": "https://uasmuhammad-indra-guanawanpw.firebaseio.com",
+    "project_id": "uasmuhammad-indra-guanawanpw",
+    "storage_bucket": "uasmuhammad-indra-guanawanpw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215563026195:android:a17f0f0cade01aa9aae4e6",
+        "android_client_info": {
+          "package_name": "com.example.danianwar.a18_uas_muhammad_indra_guanawan_pwpb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215563026195-627qogk8n5om41em6599f4hsog0uagg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danianwar.a18_uas_muhammad_indra_guanawan_pwpb",
+            "certificate_hash": "60c4b17fa3aaf9561615f5ede87c3ad8d6d8fcd1"
+          }
+        },
+        {
+          "client_id": "215563026195-7scceglmti7v6goe87otebigfcdofb1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMIXirULuWjOQtfzNQ2NHp6t4fPJSZu2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215563026195-7scceglmti7v6goe87otebigfcdofb1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
